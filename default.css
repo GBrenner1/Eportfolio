@@ -7,12 +7,12 @@ body {
     background-color: darkcyan;
 }
 
-li {
+#nav li {
     display: inline;
     float: left;
 }
 
-li a {
+#nav li a {
     display: block;
     padding: 20px;
     margin-left: 30px;
@@ -22,11 +22,11 @@ li a {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-li a:hover {
+#nav li a:hover {
     background-color:#dfc39f;
 }
 
-li a:visited {
+#nav li a:visited {
     text-decoration: none;
     color: black;
 }
@@ -52,6 +52,15 @@ li a:visited {
 
 #main_body h1,h2 {
     padding: 20px;
+}
+
+#main_body li {
+   margin-left: 50px;
+   margin-bottom: 5px;
+}
+
+#main_body img {
+    padding: 10px;
 }
 
 #footer ,a  {
