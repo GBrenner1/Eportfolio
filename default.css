@@ -59,6 +59,10 @@ body {
    margin-bottom: 5px;
 }
 
+#main_body ul {
+    padding: 10px;
+ }
+
 #main_body img {
     padding: 10px;
 }
