@@ -67,6 +67,11 @@ body {
     padding: 10px;
 }
 
+.resume_body{
+    display: flex;
+    justify-content: center;
+}
+
 #footer ,a  {
     background-color:#e5d3bc;
     text-align: center;
