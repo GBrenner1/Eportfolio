@@ -50,6 +50,11 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+#main_body li a{
+    text-decoration: none;
+    background-color: gainsboro;
+}
+
 #main_body h1,h2 {
     padding: 20px;
 }
